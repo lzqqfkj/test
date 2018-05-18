@@ -1,0 +1,1 @@
+This is for testing using of Git in Eclipse.
